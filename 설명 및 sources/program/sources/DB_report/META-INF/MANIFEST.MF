@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: sources.Main
+Class-Path: .
+
+Name: oracle/sql/
+Sealed: false
+
+Name: oracle/sql/converter/
+Sealed: false
+
+Name: oracle/sql/converter_xcharset/
+Sealed: false
+
+Name: oracle/replay/driver/
+Sealed: false
+
